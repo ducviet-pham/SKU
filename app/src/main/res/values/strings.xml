@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SeokyeongUNIV</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_dashboard">Tin nhắn</string>
+    <string name="title_notifications">Thông báo</string>
+</resources>
